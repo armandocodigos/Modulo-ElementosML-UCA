@@ -4,29 +4,31 @@ Impartido como parte del Diplomado de Analisis Computacional Estadistico de Dato
 ## Agenda
 ### Día 1: Introducción teórica y práctica (Martes 09 Julio)
 - [ ] *Bloque A (6:30pm - 7:25pm)*
-- Desmitificando el aprendizaje de máquina: conceptos relacionados.
+- Desmitificando el Machine Learning: conceptos relacionados.
 - [ ] *Bloque B (7:35pm - 8:30pm)*
-- F.
-### Día 2:  (Jueves 11 Julio)
+- End-to-end example.
+### Día 2: Aprendizaje supervisado (Jueves 11 Julio)
 - [ ] *Bloque A (6:30pm - 7:25pm)*
-- F.
+- Aprendizaje supervisado: regresión.
 - [ ] *Bloque B (7:35pm - 8:30pm)*
-- F.
-### Día 3:  (Martes 16 Julio)
+- Aprendizaje supervisado: clasificación.
+- **Actividad Evaluada #1.**
+### Día 3: Deep Learning (Martes 16 Julio)
 - [ ] *Bloque A (6:30pm - 7:25pm)*
-- F.
+- Desmitificando el Deep Learning: mi primer red neuronal.
 - [ ] *Bloque B (7:35pm - 8:30pm)*
-- F.
-### Día 4:  (Jueves 18 Julio)
+- RNA como aproximadores universales.
+### Día 4: Otras aplicaciones (Jueves 18 Julio)
 - [ ] *Bloque A (6:30pm - 7:25pm)*
-- F.
+- Series temporales.
 - [ ] *Bloque B (7:35pm - 8:30pm)*
-- F.
-### Día 5:  (Jueves 23 Julio)
+- Aprendizaje no supervisado: clusterización.
+- **Actividad Evaluada #2.**
+### Día 5: Al infinito y mas alla! (Martes 23 Julio)
 - [ ] *Bloque A (6:30pm - 7:25pm)*
-- F.
+- Métodos de ensamble.
 - [ ] *Bloque B (7:35pm - 8:30pm)*
-- F.
+- Tópicos avanzados: PLN, CV, GraphML, LLMs.
 
 ## Bibliografía
 - Geron, A. (2023). Hands-on machine learning with Scikit-Learn, Keras & TensorFlow. O’Reilly Media.
