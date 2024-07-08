@@ -1,10 +1,10 @@
-## Modulo-ElementosML-UCA
-F.
+## Módulo: Elementos de Machine Learning
+Impartido como parte del Diplomado de Analisis Computacional Estadistico de Datos con Python.
 
 ## Agenda
 ### Día 1: Introducción teórica y práctica (Martes 09 Julio)
 - [ ] *Bloque A (6:30pm - 7:25pm)*
-- F.
+- Desmitificando el aprendizaje de máquina: conceptos relacionados.
 - [ ] *Bloque B (7:35pm - 8:30pm)*
 - F.
 ### Día 2:  (Jueves 11 Julio)
