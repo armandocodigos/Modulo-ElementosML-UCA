@@ -24,7 +24,7 @@ Impartido como parte del Diplomado de Analisis Computacional Estadistico de Dato
 - [ ] *Bloque B (7:35pm - 8:30pm)*
 - Aprendizaje no supervisado: clusterización.
 - **Actividad Evaluada #2.**
-### Día 5: Al infinito y mas alla! (Martes 23 Julio)
+### Día 5: Al infinito y más allá! (Martes 23 Julio)
 - [ ] *Bloque A (6:30pm - 7:25pm)*
 - Métodos de ensamble.
 - [ ] *Bloque B (7:35pm - 8:30pm)*
