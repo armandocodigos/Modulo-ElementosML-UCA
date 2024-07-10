@@ -3,7 +3,7 @@ Impartido como parte del Diplomado de Analisis Computacional Estadistico de Dato
 
 ## Agenda
 ### Día 1: Introducción teórica y práctica (Martes 09 Julio)
-- [ ] *Bloque A (6:30pm - 7:25pm)*
+- [x] *Bloque A (6:30pm - 7:25pm)*
 - Desmitificando el Machine Learning: conceptos relacionados.
 - [ ] *Bloque B (7:35pm - 8:30pm)*
 - End-to-end example.
