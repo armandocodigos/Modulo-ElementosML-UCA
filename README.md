@@ -14,7 +14,7 @@ Impartido como parte del Diplomado de Analisis Computacional Estadistico de Dato
 - Aprendizaje supervisado: clasificación.
 - **Actividad Evaluada #1.**
 ### Día 3: Deep Learning (Martes 16 Julio)
-- [ ] *Bloque A (6:30pm - 7:25pm)*
+- [x] *Bloque A (6:30pm - 7:25pm)*
 - Desmitificando el Deep Learning: mi primer red neuronal.
 - [ ] *Bloque B (7:35pm - 8:30pm)*
 - RNA como aproximadores universales.
