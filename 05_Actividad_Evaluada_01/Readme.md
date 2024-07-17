@@ -4,7 +4,7 @@ El objetivo es encontrar un modelo de clasificacion que pueda distinguir entre e
 - Paso 2: **[Feature engineering]** Crear cuatro DataFrames (x_train, x_test, y_train, y_test) que contengan datos de los tres tipos de input. Es decir que tanto en entrenamiento como en prueba se deben tener registros tanto de relax, como de emotional stress y de cognitive stress.
 - Paso 3: **[Modeling]** Entrenar varios modelos de machine learning, no hay requisito pero se anima a probar tantas combinaciones de hyper-parametros y modelos como usted desee.
 - Paso 4: **[Output]** Seleccionar el mejor modelo, calcular su accuracy, mostrar su matriz de confusion y explicar porque usted considera que es el mejor.
-- Paso 5: **[Production]** Almacenar el model del paso anterior en un archivo binario "modelo.sav" mediante la libreria pickle.
+- Paso 5: **[Production]** Almacenar el modelo del paso anterior en un archivo binario "modelo.sav" mediante la libreria pickle.
 
 Se debe entregar el archivo ipynb (jupiter notebook) en el e-campus para el proximo lunes.
 
