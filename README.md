@@ -5,12 +5,12 @@ Impartido como parte del Diplomado de Analisis Computacional Estadistico de Dato
 ### Día 1: Introducción teórica y práctica (Martes 09 Julio)
 - [x] *Bloque A (6:30pm - 7:25pm)*
 - Desmitificando el Machine Learning: conceptos relacionados.
-- [ ] *Bloque B (7:35pm - 8:30pm)*
+- [x] *Bloque B (7:35pm - 8:30pm)*
 - End-to-end example.
 ### Día 2: Aprendizaje supervisado (Jueves 11 Julio)
-- [ ] *Bloque A (6:30pm - 7:25pm)*
+- [x] *Bloque A (6:30pm - 7:25pm)*
 - Aprendizaje supervisado: regresión.
-- [ ] *Bloque B (7:35pm - 8:30pm)*
+- [x] *Bloque B (7:35pm - 8:30pm)*
 - Aprendizaje supervisado: clasificación.
 - **Actividad Evaluada #1.**
 ### Día 3: Deep Learning (Martes 16 Julio)
