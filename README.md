@@ -16,7 +16,7 @@ Impartido como parte del Diplomado de Analisis Computacional Estadistico de Dato
 ### Día 3: Deep Learning (Martes 16 Julio)
 - [x] *Bloque A (6:30pm - 7:25pm)*
 - Desmitificando el Deep Learning: mi primer red neuronal.
-- [ ] *Bloque B (7:35pm - 8:30pm)*
+- [x] *Bloque B (7:35pm - 8:30pm)*
 - RNA como aproximadores universales.
 ### Día 4: Otras aplicaciones (Jueves 18 Julio)
 - [ ] *Bloque A (6:30pm - 7:25pm)*
