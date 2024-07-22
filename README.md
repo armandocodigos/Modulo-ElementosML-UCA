@@ -9,7 +9,7 @@ Impartido como parte del Diplomado de Analisis Computacional Estadistico de Dato
 - [x] *Bloque A.* Aprendizaje supervisado: regresión.
 - [x] *Bloque B.* Aprendizaje supervisado: clasificación.
 - **Actividad Evaluada #1.**
-### Sub-módulo 3: Deep Learning (Martes 16 Julio)
+### Sub-módulo 3: Deep Learning
 - [x] *Bloque A.* Desmitificando el Deep Learning: mi primer red neuronal.
 - [x] *Bloque B.* RNA como aproximadores universales.
 ### Sub-módulo 4: Otras aplicaciones
