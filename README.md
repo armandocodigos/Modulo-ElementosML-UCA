@@ -2,33 +2,23 @@
 Impartido como parte del Diplomado de Analisis Computacional Estadistico de Datos con Python.
 
 ## Agenda
-### Día 1: Introducción teórica y práctica (Martes 09 Julio)
-- [x] *Bloque A (6:30pm - 7:25pm)*
-- Desmitificando el Machine Learning: conceptos relacionados.
-- [x] *Bloque B (7:35pm - 8:30pm)*
-- End-to-end example.
-### Día 2: Aprendizaje supervisado (Jueves 11 Julio)
-- [x] *Bloque A (6:30pm - 7:25pm)*
-- Aprendizaje supervisado: regresión.
-- [x] *Bloque B (7:35pm - 8:30pm)*
-- Aprendizaje supervisado: clasificación.
+### Sub-módulo 1: Introducción teórica y práctica
+- [x] *Bloque A.* Desmitificando el Machine Learning: conceptos relacionados.
+- [x] *Bloque B.* End-to-end example.
+### Sub-módulo 2: Aprendizaje supervisado
+- [x] *Bloque A.* Aprendizaje supervisado: regresión.
+- [x] *Bloque B.* Aprendizaje supervisado: clasificación.
 - **Actividad Evaluada #1.**
-### Día 3: Deep Learning (Martes 16 Julio)
-- [x] *Bloque A (6:30pm - 7:25pm)*
-- Desmitificando el Deep Learning: mi primer red neuronal.
-- [x] *Bloque B (7:35pm - 8:30pm)*
-- RNA como aproximadores universales.
-### Día 4: Otras aplicaciones (Jueves 18 Julio)
-- [ ] *Bloque A (6:30pm - 7:25pm)*
-- Series temporales.
-- [ ] *Bloque B (7:35pm - 8:30pm)*
-- Aprendizaje no supervisado: clusterización.
+### Sub-módulo 3: Deep Learning (Martes 16 Julio)
+- [x] *Bloque A.* Desmitificando el Deep Learning: mi primer red neuronal.
+- [x] *Bloque B.* RNA como aproximadores universales.
+### Sub-módulo 4: Otras aplicaciones
+- [ ] *Bloque A.* Series temporales.
+- [ ] *Bloque B.* Aprendizaje no supervisado: clusterización.
 - **Actividad Evaluada #2.**
-### Día 5: Al infinito y más allá! (Martes 23 Julio)
-- [ ] *Bloque A (6:30pm - 7:25pm)*
-- Métodos de ensamble.
-- [ ] *Bloque B (7:35pm - 8:30pm)*
-- Tópicos avanzados: PLN, CV, GraphML, LLMs.
+### Sub-módulo 5: Al infinito y más allá!
+- [ ] *Bloque A.* Métodos de ensamble.
+- [ ] *Bloque B.* Tópicos avanzados: PLN, CV, GraphML, LLMs.
 
 ## Bibliografía
 - Geron, A. (2023). Hands-on machine learning with Scikit-Learn, Keras & TensorFlow. O’Reilly Media.
