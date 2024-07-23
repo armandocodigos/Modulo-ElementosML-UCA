@@ -13,8 +13,9 @@ Impartido como parte del Diplomado de Analisis Computacional Estadistico de Dato
 - [x] *Bloque A.* Desmitificando el Deep Learning: mi primer red neuronal.
 - [x] *Bloque B.* RNA como aproximadores universales.
 ### Sub-módulo 4: Otras aplicaciones
-- [ ] *Bloque A.* Series temporales.
-- [ ] *Bloque B.* Aprendizaje no supervisado: clusterización.
+- [x] *Bloque A.* Series temporales.
+- [x] *Bloque B.* Reducción de la dimensionalidad.
+- [x] *Bloque C.* Aprendizaje no supervisado: clusterización.
 - **Actividad Evaluada #2.**
 ### Sub-módulo 5: Al infinito y más allá!
 - [ ] *Bloque A.* Métodos de ensamble.
