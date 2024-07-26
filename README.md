@@ -18,8 +18,8 @@ Impartido como parte del Diplomado de Analisis Computacional Estadistico de Dato
 - [x] *Bloque C.* Aprendizaje no supervisado: clusterización.
 - **Actividad Evaluada #2.**
 ### Sub-módulo 5: Al infinito y más allá!
-- [ ] *Bloque A.* Métodos de ensamble.
-- [ ] *Bloque B.* Tópicos avanzados: PLN, CV, GraphML, LLMs.
+- [x] *Bloque A.* Métodos de ensamble.
+- [x] *Bloque B.* Tópicos avanzados: PLN, CV, GraphML, LLMs.
 
 ## Bibliografía
 - Geron, A. (2023). Hands-on machine learning with Scikit-Learn, Keras & TensorFlow. O’Reilly Media.
