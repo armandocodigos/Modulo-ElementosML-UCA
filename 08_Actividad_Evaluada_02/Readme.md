@@ -10,7 +10,12 @@ El objetivo del trabajo final del módulo es entrenar un pequeño proyecto usand
 - Paso 3: **[Pre-procesamiento]** Realizar todas las operaciones necesarias para que los datos esten listos para el modelaje.
    - Eliminar datos nulos, crear dummies o codificar datos categóricos.
    - Separar en subsets de entrenamiento y prueba.
-- Paso 4: **[Modelado]** Entrenar varios modelos de ML, no hay requisito pero se anima a probar tantas combinaciones de hyper-parametros y modelos como usted desee.
+- Paso 4: **[Modelado]** Entrenar varios modelos de ML, no hay requisito pero se anima a probar tantas combinaciones de hyper-parametros y modelos como usted desee
+    - Redes neuronales [MLPRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html).
+    - Máquinas de soporte vectorial [SVM](https://scikit-learn.org/stable/modules/svm.html).
+    - Árboles de decisión [DecisionTree](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html).
+    - Bosques aleatorios [RandomForest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html).
+    - Métodos de ensamble [AdaBoost](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostClassifier.html) [GradientBoosting](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html).
 - Paso 5: **[Output]** Seleccionar el mejor modelo en base a alguna métrica vista en el modulo y explicar porqué usted considera que es el mejor.
 
 Se debe entregar el archivo ipynb (jupiter notebook) en el e-campus para el próximo lunes.
