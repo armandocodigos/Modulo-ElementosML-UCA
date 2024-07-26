@@ -11,7 +11,7 @@ El objetivo del trabajo final del módulo es entrenar un pequeño proyecto usand
    - Eliminar datos nulos, crear dummies o codificar datos categóricos.
    - Separar en subsets de entrenamiento y prueba.
 - Paso 4: **[Modelado]** Entrenar varios modelos de ML, no hay requisito pero se anima a probar tantas combinaciones de hyper-parametros y modelos como usted desee.
-- Paso 5: **[Output]** Seleccionar el mejor modelo en base a alguna metrica vista en el modulo y explicar porque usted considera que es el mejor.
+- Paso 5: **[Output]** Seleccionar el mejor modelo en base a alguna métrica vista en el modulo y explicar porqué usted considera que es el mejor.
 
 Se debe entregar el archivo ipynb (jupiter notebook) en el e-campus para el próximo lunes.
 
